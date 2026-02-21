@@ -40,13 +40,13 @@ Frontend (React JS) → REST APIs → Spring Boot → MySQL Database
 ## 📸 Project Screenshots
 
 ### 🔹 Dashboard
-![Dashboard](frontend/collegeerp/public/img/Screenshot (19).png)
+![Dashboard](frontend/collegeerp/public/img/dash1).png)
 
 ### 🔹 Student Management
-![Student Management](images/student.png)
+![Student Management](frontend/collegeerp/public/img/dash2).png)
 
 ### 🔹 Faculty Management
-![Faculty Management](images/faculty.png)
+![Faculty Management](frontend/collegeerp/public/img/dash3).png)
 
 ---
 
@@ -57,3 +57,6 @@ Frontend (React JS) → REST APIs → Spring Boot → MySQL Database
 git clone https://github.com/your-username/your-repo-name.git
 cd backend
 mvn spring-boot:run
+
+cd frontend
+npm run dev
