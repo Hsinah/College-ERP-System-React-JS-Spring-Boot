@@ -40,7 +40,7 @@ Frontend (React JS) → REST APIs → Spring Boot → MySQL Database
 ## 📸 Project Screenshots
 
 ### 🔹 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](frontend/collegeerp/public/img/Screenshot (19).png)
 
 ### 🔹 Student Management
 ![Student Management](images/student.png)
